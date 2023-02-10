@@ -10,4 +10,4 @@ D) REAL_TIME COUNT OF NUMBER OF TASKS.\
 E) PROVIDE A BLANK SLATE VIA CLEAR ALL THAT EMPTIES THE ENTIRE LIST.\
 
 Live Demo link:\
-parthb.netlify.app/
+[https://parthb.netlify.app/](https://parthb.netlify.app/)
